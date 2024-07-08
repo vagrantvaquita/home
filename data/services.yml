@@ -1,6 +1,6 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
-enable: true
+enable: false
 title: You can benefit more than you think
 services:
   - icon: ti-settings
